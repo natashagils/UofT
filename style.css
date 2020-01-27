@@ -1,4 +1,4 @@
-/*CSS Refactored*/
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -35,9 +35,6 @@ h1 {
     font-size: 48px;
 }
 
-
-
-/*see how to fix the below */
 .header div ul {
     list-style-type: none;
 }
